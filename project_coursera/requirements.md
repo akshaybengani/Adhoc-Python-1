@@ -18,3 +18,4 @@ SMALL TASK
 * open your coursera account
 * click on cookie icon after 
 * click on export option and paste the json text in a file named cookies.txt and save in same folder as coursera.py
+ 
